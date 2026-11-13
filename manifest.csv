@@ -1,0 +1,16 @@
+type,dataset,file,file_bytes,bits_per_stream,num_streams,bits_tested,status
+qrng,qrng_q1,quantum_pool_100m_pass_1_vn.bin,368796584,1000000,1000,1000000000,complete
+qrng,qrng_q2,quantum_pool_100m_pass_2_vn.bin,368215504,1000000,1000,1000000000,complete
+qrng,qrng_q3,quantum_pool_100m_pass_3_vn.bin,370920516,1000000,1000,1000000000,complete
+prng,prng_s1,prng_1_vn.bin,375002732,1000000,1000,1000000000,complete
+prng,prng_s2,prng_2_vn.bin,374998995,1000000,1000,1000000000,complete
+prng,prng_s3,prng_3_vn.bin,374996585,1000000,1000,1000000000,complete
+hrng,hrng_q1_s1,hrng_q1_s1_vn.bin,368796584,1000000,1000,1000000000,complete
+hrng,hrng_q1_s2,hrng_q1_s2_vn.bin,368796584,1000000,1000,1000000000,complete
+hrng,hrng_q1_s3,hrng_q1_s3_vn.bin,368796584,1000000,1000,1000000000,complete
+hrng,hrng_q2_s1,hrng_q2_s1_vn.bin,368215504,1000000,1000,1000000000,complete
+hrng,hrng_q2_s2,hrng_q2_s2_vn.bin,368215504,1000000,1000,1000000000,complete
+hrng,hrng_q2_s3,hrng_q2_s3_vn.bin,368215504,1000000,1000,1000000000,complete
+hrng,hrng_q3_s1,hrng_q3_s1_vn.bin,370920516,1000000,1000,1000000000,complete
+hrng,hrng_q3_s2,hrng_q3_s2_vn.bin,370920516,1000000,1000,1000000000,complete
+hrng,hrng_q3_s3,hrng_q3_s3_vn.bin,370920516,1000000,1000,1000000000,complete
